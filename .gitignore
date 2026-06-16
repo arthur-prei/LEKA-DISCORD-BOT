@@ -1,0 +1,13 @@
+.env
+personality.txt
+
+.vscode/
+
+phrases/
+json/
+emoji_folder/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
