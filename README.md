@@ -23,12 +23,13 @@ A Leka me permitiu praticar Python, aprender a trabalhar com APIs, organizar pro
 Durante o desenvolvimento, encontrei diversos desafios e precisei pesquisar, testar soluções e aprender novas ferramentas para continuar expandindo o projeto.
 
 ## Tecnologias Utilizadas
-Python
-discord.py
-OpenAI API
-CSV
-JSON
-Status do Projeto
+- Python
+- discord.py
+- OpenAI API
+- CSV
+- JSON
+
+### Status do Projeto
 
 A Leka continua em desenvolvimento e recebe novas funcionalidades sempre que surge uma ideia interessante ou quando encontro algo novo para aprender.
 
