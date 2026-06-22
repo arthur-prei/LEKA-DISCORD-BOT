@@ -4,7 +4,7 @@ Leka é uma bot para Discord desenvolvida em Python como projeto pessoal e ferra
 
 O projeto começou como uma simples bot para o meu servidor e, com o tempo, foi evoluindo para uma assistente capaz de realizar tarefas de moderação, automação e interação com usuários.
 
-Funcionalidades
+## Funcionalidades
 Mensagens de boas-vindas e despedida
 Monitoramento de entradas, saídas, banimentos e desbanimentos
 Slash commands personalizados
@@ -29,14 +29,8 @@ Durante o desenvolvimento, encontrei diversos desafios e precisei pesquisar, tes
 - CSV
 - JSON
 
-### Status do Projeto
-
-A Leka continua em desenvolvimento e recebe novas funcionalidades sempre que surge uma ideia interessante ou quando encontro algo novo para aprender.
-
-Como todo projeto pessoal, ela está sempre evoluindo.
-
 ## Autor
 
 Arthur Porto de Souza Silva
 
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, automação e desenvolvimento de software.
+Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento de software e aprendizado contínuo através de projetos práticos.
